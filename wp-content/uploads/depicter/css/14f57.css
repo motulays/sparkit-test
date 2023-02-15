@@ -1,0 +1,74 @@
+
+.depicter-revert.depicter-1 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-1-element-53:not(.depicter-hover-off){
+	transition:all cubic-bezier(0.5, 0, 0.75, 0) 0.3s;
+}
+.depicter-revert .depicter-1-element-53:not(.depicter-hover-off):hover {
+	transform:scale(1.06);
+}
+.depicter-revert .depicter-1-element-54{
+	transform:rotate(180deg);
+}
+.depicter-revert .depicter-1-element-72{
+	font-size:34px;
+	color:#ffffff;
+	font-family:inherit;
+	font-weight:600;
+	line-height:120%;
+	overflow-wrap:break-word;
+	text-decoration:underline;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-78{
+	font-size:25px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-element-76{
+	font-size:25px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-41 .depicter-section-background{
+	background-color:#000000;
+}
+.depicter-revert .depicter-1-element-55{
+	font-size:25px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-52 .depicter-section-background{
+	background-color:#000000;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-1-element-54{
+	transform:rotate(180deg);
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-1-element-54{
+	transform:rotate(180deg);
+}
+
+}
